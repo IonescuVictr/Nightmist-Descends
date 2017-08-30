@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMist", "NightMist.csproj", "{4EF15C7A-FF60-E0F8-8571-553D05FEDB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMist.Editor", "NightMist.Editor.csproj", "{189730EA-5044-5DA0-183C-A8E5B02C0DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF15C7A-FF60-E0F8-8571-553D05FEDB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF15C7A-FF60-E0F8-8571-553D05FEDB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF15C7A-FF60-E0F8-8571-553D05FEDB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF15C7A-FF60-E0F8-8571-553D05FEDB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189730EA-5044-5DA0-183C-A8E5B02C0DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189730EA-5044-5DA0-183C-A8E5B02C0DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189730EA-5044-5DA0-183C-A8E5B02C0DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189730EA-5044-5DA0-183C-A8E5B02C0DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
